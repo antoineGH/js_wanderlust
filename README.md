@@ -55,4 +55,4 @@ const config = {
 
 ## Screenshots
 
-![App Screenshots](https://templars.guru/app/github/js_wanderlust/1.PNG)
+![App Screenshots](https://github.com/antoineratat/github_docs/blob/main/js_wanderlust/1.PNG?raw=true)
